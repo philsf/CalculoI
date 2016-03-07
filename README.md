@@ -18,12 +18,14 @@ Em negrito, estão as seções do livro texto correspondentes a cada assunto. A 
 - Domínio e Imagem no plano cartesiano, e Noção de limite. ([Vídeo aula][lim_nocao] de apoio)
 - Definição e propriedades dos Limites (**2.2**). ~~(KLS: U2S1)~~ ([Vídeo aula][lim_prop])
 - Limites infinitos e limites no infinito (**2.3**). ~~(KLS: U2S2)~~ ([Vídeo aula][lim_inf])
-- Revisão para a prova.
+- Revisão para a prova. ([Vídeo aula][lim_exerc]).
 - P1.
 
 [lim_nocao]: https://www.youtube.com/watch?v=GJBP7xwfBKQ
 [lim_prop]: https://www.youtube.com/watch?v=jrd8UWtS9PY
-[lim_inf]: https://www.youtube.com/watch?v=YXh5x_cE-G4
+[lim_inf]: https://www.youtube.com/watch?v=MKms8CesZn8 
+<!-- https://www.youtube.com/watch?v=RFBA8lBn0mE -->
+[lim_exerc]: https://www.youtube.com/watch?v=KFGoDGodVgY
 
 
 ## Listas de exercícios e problemas
