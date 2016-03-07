@@ -10,7 +10,9 @@ Apresentar aos alunos os fundamentos de limites, continuidade de funções, deri
 
 ## Planejamento de aulas de conteúdo
 
-Em negrito, estão as seções do livro texto correspondentes a cada assunto. A referência do livro texto está na seção **Bibliografia**.
+As aulas seguirão diretamente os contéudos (e alguns exemplos) do livro texto, de acordo com os conteúdos determinados nas Aulas Modelos do KLS. Assim sendo, diversos tópicos (e exercícios) do livro serão pulados.
+
+Abaixo estão indicadas as seções do livro texto utilizadas em cada aula. A referência do livro texto está na seção **Bibliografia**.
 
 ~~Você pode adicionalmente consultar a pré-aula na sua área restrita. Usei as abreviaturas (U2S1 é a Unidade 2, Encontro 1).~~
 
