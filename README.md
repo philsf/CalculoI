@@ -31,9 +31,13 @@ Em negrito, estão as seções do livro texto correspondentes a cada assunto. A 
 ## Listas de exercícios e problemas
 
 - Revisão de matemática básica (**1.1** a **1.6**). Comece com os exemplos do livro, faça o maior número possível de exercícios e traga suas dúvidas!
-- Introdução à continuidade (**1.7**) Problemas 11-20.
-- Limites: Seção **2.2** (1,3, 9, 15-22).
-- Limites infinitos e limites no infinito: Seção **2.2** (30-41).
+- Introdução à continuidade ([Trabalho 0][]).
+- [Limites][].
+- [Limites infinitos e limites no infinito][].
+
+[Limites]: Listas/Calculo-lista-limites.pdf
+
+[Limites infinitos e limites no infinito]: Listas/Calculo-lista-limites_infin.pdf
 
 ## Trabalhos
 
