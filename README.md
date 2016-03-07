@@ -23,7 +23,7 @@ Em negrito, estão as seções do livro texto correspondentes a cada assunto. A 
 
 [lim_nocao]: https://www.youtube.com/watch?v=GJBP7xwfBKQ
 [lim_prop]: https://www.youtube.com/watch?v=jrd8UWtS9PY
-[lim_inf]: https://www.youtube.com/watch?v=MKms8CesZn8 
+[lim_inf]: https://www.youtube.com/watch?v=MKms8CesZn8
 <!-- https://www.youtube.com/watch?v=RFBA8lBn0mE -->
 [lim_exerc]: https://www.youtube.com/watch?v=KFGoDGodVgY
 
@@ -37,9 +37,11 @@ Em negrito, estão as seções do livro texto correspondentes a cada assunto. A 
 
 ## Trabalhos
 
-- Trabalho 0
+- [Trabalho 0][]
 - Trabalho 1
 - Trabalho 2
+
+[Trabalho 0]: Trabalhos/Calculo-Trabalho0.pdf
 
 
 ## Bibliografia
