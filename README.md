@@ -41,7 +41,7 @@ Em negrito, estão as seções do livro texto correspondentes a cada assunto. A 
 - Trabalho 1
 - Trabalho 2
 
-[Trabalho 0]: Trabalhos/Calculo-Trabalho0.pdf
+[Trabalho 0]: https://github.com/philsf/Calculo_I/raw/master/Trabalhos/Calculo-Trabalho0.pdf
 
 
 ## Bibliografia
