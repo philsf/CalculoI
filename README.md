@@ -45,7 +45,6 @@ Abaixo estão indicadas as seções do livro texto utilizadas em cada aula. A re
 - [Limites infinitos e limites no infinito][].
 
 [Limites]: Listas/Calculo-lista-limites.pdf
-
 [Limites infinitos e limites no infinito]: Listas/Calculo-lista-limites_infin.pdf
 
 ## Trabalhos
@@ -54,7 +53,7 @@ Abaixo estão indicadas as seções do livro texto utilizadas em cada aula. A re
 - Trabalho 1
 - Trabalho 2
 
-[Trabalho 0]: https://github.com/philsf/Calculo_I/raw/master/Trabalhos/Calculo-Trabalho0.pdf
+[Trabalho 0]: Trabalhos/Calculo-Trabalho0.pdf
 
 
 ## Bibliografia
